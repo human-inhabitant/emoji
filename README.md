@@ -1,4 +1,9 @@
-### GitHub Emoji's (Sketchy Set)
+### GitHub Emoji's
+---
+*(A sketchy set a best)*
+
+I am sure there are others, these are what I could pull programmatically :desktop_computer:.  
+Sorted by a `category` then by `code`...
 
 | emoji | code | category |
 |---|---|---|
