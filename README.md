@@ -1,6 +1,6 @@
 ### GitHub Emoji's
 ---
-*(A sketchy set a best)*
+*(A sketchy set at best)*
 
 I am sure there are others, these are what I could pull programmatically :desktop_computer:.  
 Sorted by a `category` then by `code`...
